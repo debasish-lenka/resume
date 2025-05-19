@@ -19,10 +19,6 @@ In this project I created personal portfolio website using HTML CSS and JavaScri
 ⚡️ Your can receive the contact form data on your google sheets\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://debasish-lenka.github.io/portfolio/)**
-
----
-
 ## Why do you need a portfolio? 🤷‍♀️
 
 - Professional way to showcase your work to digital word
@@ -89,11 +85,11 @@ Go to `index.html` and put your information, there are several sections:
 
 
 - Search below `html` code in `head` section
-- Replace *Kusal Tharindu* with you name 
+- Replace *Debasish Lenka* with you name 
 
 ```html
 <!-- head -->
-<title>Kusal Tharindu</title>
+<title>Debasish Lenka</title>
 ```
 
 ###  <span style= "color: #00c1ff">**(2) Side-menu** </span>
@@ -120,7 +116,7 @@ Go to `index.html` and put your information, there are several sections:
 
             <div class="header-text">
                 <p>Network Engineer</p>
-                <h1>I'm <span>Kusal</span><br> from Sri lanka</h1>
+                <h1>I'm <span>Debasish</span><br> from </h1>
             </div>
 
         </div>
@@ -349,7 +345,7 @@ I highly recommend to use [Cloudflare pages](https://pages.cloudflare.com/) beca
 ---
 ## Authors
 
-- **`Kusal Tharindu`** - [https://github.com/debasish-lenka](https://github.com/debasish-lenka)
+- **`Debasish Lenka** - [https://github.com/debasish-lenka](https://github.com/debasish-lenka)
 ---
 
 ## License 📄
